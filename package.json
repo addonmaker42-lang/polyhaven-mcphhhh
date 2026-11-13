@@ -1,0 +1,13 @@
+{
+  "name": "polyhaven-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.2",
+    "express": "^4.21.2",
+    "zod": "^3.25.76"
+  }
+}
